@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+
+# Computer Vision
+opencv-python
+pillow
+imutils
+scikit-image
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning (choose ONE)
+# tensorflow
+torch
+torchvision
+
+# Jupyter / Development
+jupyter
+notebook
+ipykernel
+
+# Utilities
+tqdm
+joblib
+
+# Optional
+albumentations

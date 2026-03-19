@@ -1,0 +1,8 @@
+cv_env/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.avi
+*.png
